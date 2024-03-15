@@ -1,4 +1,4 @@
-# Costin Didoaca 333CA #
+# Costin Didoaca #
 # Tema 2 APD
 
 MyHost
